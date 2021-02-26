@@ -1,0 +1,18 @@
+.shop-container{
+    display: flex;
+}
+
+ul li{
+    list-style: none;
+}
+.prodcut-container{
+    width: 70%;
+    margin-left: 30px;
+    margin-right: 5px;
+    border-right: 1px solid lightgrey;
+}
+
+.cart-container{
+    margin: 5px;
+    text-align: center;
+}

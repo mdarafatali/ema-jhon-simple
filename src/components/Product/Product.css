@@ -1,0 +1,14 @@
+.product-container{
+    display: flex;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+.single-product{
+    border-bottom: 1px solid lightgray;
+    padding: 20px;
+}
+
+.single-product h4{
+    color: blue;
+}
